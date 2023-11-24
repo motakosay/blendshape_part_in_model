@@ -1,4 +1,4 @@
-//script by:Yahia Kamal
+//script by:Yahia Kamal <yahianimator@gmail.com>
 //mel script
 //should shape editor in edit mode
 //should select vertices of your original model
